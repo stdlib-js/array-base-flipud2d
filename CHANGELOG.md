@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="v0.2.2">
+<section class="release" id="unreleased">
 
-## 0.2.2 (2024-07-28)
+## Unreleased (2024-08-01)
 
 <section class="commits">
 
@@ -12,13 +12,35 @@
 
 <details>
 
--   [`ec98887`](https://github.com/stdlib-js/stdlib/commit/ec9888724c28aa7218d88ff62b91b71c0089c559) - **docs:** update related packages sections [(#2241)](https://github.com/stdlib-js/stdlib/pull/2241) _(by stdlib-bot)_
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.2">
+
+## 0.2.2 (2024-07-28)
+
+No changes reported for this release.
 
 </section>
 
@@ -48,42 +70,7 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-12-20)
 
-<section class="features">
-
-### Features
-
--   [`b776363`](https://github.com/stdlib-js/stdlib/commit/b7763638887e590a1cfa832956290db1e5a68150) - add `array/base/flipud2d`
-
-</section>
-
-<!-- /.features -->
-
-<section class="commits">
-
-### Commits
-
-<details>
-
--   [`54f68b0`](https://github.com/stdlib-js/stdlib/commit/54f68b00ca8ba02c2318ed2d801cedd0d7110bfd) - **test:** update test descriptions _(by Athan Reines)_
--   [`b776363`](https://github.com/stdlib-js/stdlib/commit/b7763638887e590a1cfa832956290db1e5a68150) - **feat:** add `array/base/flipud2d` _(by Athan Reines)_
-
-</details>
-
-</section>
-
-<!-- /.commits -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
+No changes reported for this release.
 
 </section>
 
